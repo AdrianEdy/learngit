@@ -1,1 +1,1 @@
-console.log("ayuwoki : hee hee");
+console.log("ayuwoki: hee hee");
